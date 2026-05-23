@@ -1,0 +1,3 @@
+voxel
+*.o
+.clang-format
